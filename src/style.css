@@ -1,0 +1,12 @@
+
+.fondo{
+    background-image: url("https://elcomercio.pe/resizer/ERSGcMpM8b22CoMsERdYk2ioGJ8=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/MQJBLWTLKFA65EQZEXATFXAS6E.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img{
+    background-image:url("https://api.gamefan.la/gateways/logos/interbank.png");
+    background-color: brown;
+}

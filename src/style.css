@@ -1,12 +1,63 @@
 
-.fondo{
-    background-image: url("https://elcomercio.pe/resizer/ERSGcMpM8b22CoMsERdYk2ioGJ8=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/MQJBLWTLKFA65EQZEXATFXAS6E.jpg");
+body{
+    background-image: url("https://nextrategic.com/wp-content/uploads/2019/08/Mercado-libre-lanza-categoria-Eco-Friendly.jpg");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 5rem;
+    padding-left: 2rem;
 }
 
 .img{
     background-image:url("https://api.gamefan.la/gateways/logos/interbank.png");
     background-color: brown;
 }
+
+section{
+    width: 28%;
+    height: 50%;
+    border-style:outset;
+}
+
+.form{
+    padding: 1rem;
+}
+
+.secondary{
+    background-color: rgb(16, 114, 16);
+    color: white;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cardNumber{
+    width: 100%;
+}
+
+.enter{
+    display: flex;
+    justify-content: center;
+}
+
+.enterButton{
+    background-color:#4CAF50;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    transition-duration:0.4s;
+    margin: 1rem;
+
+}
+ input{
+     margin: 0.1rem;
+ }
+
+ #valueInput{
+     background-color: white;
+ }
+
+ 
